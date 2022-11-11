@@ -1,4 +1,4 @@
 #Carousel/Slidshow
 
 
-blessingudeji.github.io/Zuri-week6-7/
+https://blessingudeji.github.io/Zuri-week6-7/
